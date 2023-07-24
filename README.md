@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AqibMehmoodMalik
-- 👀 I’m interested in Machine learnning, web develpment.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on Errors  in coding machine learning,amd frontendand bakend websites.
+- 👀 I’m interested in Machine learnning, web develpment,java,C++,Python,Mobile application .
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on Errors  in coding machine learning, frontendand ,bakend websites,Mobile applications,.
 - 📫 How to reach me??
 - kfueit2742@gmail.com
 <!---
