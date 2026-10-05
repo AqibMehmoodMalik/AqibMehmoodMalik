@@ -1,4 +1,4 @@
-<img width="1593" height="796" alt="image" src="https://github.com/user-attachments/assets/35e4e0a0-b739-47c9-bee9-46cb308daf47" />
+<img width="1593" height="796" alt="image" src="IMG4567876543.png" />
 
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
